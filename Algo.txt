@@ -1,0 +1,11 @@
+1. Decide which business to order from
+2. Look for the menu
+3. Go through out all the types of pizza on the menu
+4. Decide which size you want
+5. Pick your toppings
+6. Add any extra requests like extra cheese or if you want the pizza cooked longer
+7. Order any extra sides like drinks or sauces
+8. Choose if you want it delivered or to pick it up yourself
+9. Pay for the pizza
+10. Collect the pizza
+11. Enjoy the pizza
